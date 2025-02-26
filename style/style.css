@@ -1,0 +1,70 @@
+/* Estilos generales */
+body {
+    font-family: Arial, sans-serif;
+    margin: 100;
+    padding: 100;
+    background-color: #f0f0f0;
+}
+header {
+
+    font-family: Arial, sans-serif;
+    background-color: #df02df;
+    color: #fff;
+    padding: 20px;
+    text-align: center;
+    box-shadow: 0px 10px 5px rgba(0, 0, 0, 0.5)
+}
+h1 {
+    font-size: 50px;
+    margin: 0;
+}
+main {
+        max-width: 800px;
+        margin: 0 auto;
+        padding: 20px;
+        background-color: #fff;
+        box-shadow: 0px 2px 5px rgba(0, 0, 0, 0.2)
+        
+}
+p {
+    font-size: 18px;
+    text-align: justify;
+    margin-bottom: 50px;
+}
+
+h2 {
+    font-size: 24px;
+    text-align: center;
+    margin-bottom: 20px;
+}
+
+table {
+    width: 100%;
+    border-collapse: collapse;
+    margin-top: 20px;
+}
+
+th, td {
+    border: 2px solid #000000;
+    padding: 20px ;
+    text-align: left;
+}
+
+th {
+    background-color: #e42f2f;
+}
+footer {
+    font-size: 18px;
+    position: absolute;
+    bottom: 0;
+    left: 0;
+    right: 0;
+    background-color: #5c5a5a;
+    color: #fff;
+    text-align:center;
+    padding: 50px;
+}
+
+    
+
+
